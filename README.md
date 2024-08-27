@@ -1,4 +1,4 @@
-#hiii...thiis is a digital clock!!!
+
 import tkinter as tk
 from time import strftime
  
